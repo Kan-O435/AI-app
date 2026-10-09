@@ -1,0 +1,6 @@
+{
+"manifest_version": 3,
+"name": "Jev Smart Bookmark",
+"version": "1.0.0",
+"description": "Jevを活用してWebページを自動分類し、関連するブックマークフォルダへの保存を支援する拡張機能。"
+}
