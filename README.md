@@ -1,2 +1,1 @@
-# AI-app
-# AI-app
+# Jevを用いたbookmarkを分類するgoogle拡張機能
